@@ -1,4 +1,5 @@
 # Casper Excalibur G770 — Dolby Audio Profiles for EasyEffects
+Separate Dolby Audio profiles were created for speakers and headphones for  EasyEffect presets.
 
 Dolby Audio profiles converted from the official Windows driver for use with EasyEffects on Linux.
 
